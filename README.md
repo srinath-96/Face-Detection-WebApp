@@ -103,7 +103,8 @@ python app.py
 
 # How it should Look
 
-![Uploading Screenshot 2025-01-21 at 4.11.56 PM.png…]()
+<img width="1440" alt="Screenshot 2025-01-21 at 4 11 56 PM" src="https://github.com/user-attachments/assets/894fe465-4eeb-4c03-a1ba-20cd53a69ba2" />
+
 
 
 ## Development and Contribution
