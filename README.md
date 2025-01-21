@@ -62,32 +62,6 @@ HUGGINGFACE_API_KEY=your_huggingface_api_key_here
 python app.py
 
 
-## Project Structure
-
-├── app.py                 # Main application file
-
-├── utils/                 # Utility functions and classes
-
-│   ├── face_detector.py   # Face detection logic
-
-│   ├── emotion_classifier.py # Emotion analysis logic
-
-│   ├── image_processor.py  # Image processing logic
-
-│   └── face_analyzer.py   # Face analysis logic
-
-├── config/                # Configuration files
-
-│   ├── settings.py        # Application settings
-
-│   └── env.py             # Environment variables
-
-├── requirements.txt       # Project dependencies
-
-├── .env                   # Environment variables file
-
-├── README.md              # Project documentation
-
 
 
 
