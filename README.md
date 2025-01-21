@@ -101,6 +101,11 @@ python app.py
    - Reduce the camera resolution if needed
    - Consider using a GPU for better performance
 
+# How it should Look
+
+![Uploading Screenshot 2025-01-21 at 4.11.56 PM.png…]()
+
+
 ## Development and Contribution
 
 To contribute to this project:
