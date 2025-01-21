@@ -31,27 +31,34 @@ Before running the application, ensure you have:
 1. Clone the repository:
 bash
 git clone https://github.com/srinath-96/Face-Detection-WebApp.git
+
 cd face-detection-app
 
 
-2. Create and activate a virtual environment:
+3. Create and activate a virtual environment:
 bash
 For Windows:
 python -m venv .venv
+
 .venv\Scripts\activate
+
 For macOS/Linux:
+
 python -m venv .venv
+
 source .venv/bin/activate
 
 
-3. Install required packages:
+5. Install required packages:
+6. 
 pip install -r requirements.txt
 
-4. Set up environment variables:
+7. Set up environment variables:
 Create a .env file in the root directory and add your Hugging Face API key:
+
 HUGGINGFACE_API_KEY=your_huggingface_api_key_here
 
-5. Run the application:
+9. Run the application:
 python app.py
 
 
