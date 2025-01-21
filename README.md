@@ -101,6 +101,10 @@ To contribute to this project:
 4. Submit a pull request
 
 
+## Possible issues
+1. Inaccuracies with the detection due to the model itself
+2. Incompatibitilty with device camera
+   
 ## Acknowledgments
 - OpenCV for computer vision capabilities
 - Hugging Face for transformer models
