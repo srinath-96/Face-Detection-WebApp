@@ -65,17 +65,29 @@ python app.py
 ## Project Structure
 
 ├── app.py                 # Main application file
+
 ├── utils/                 # Utility functions and classes
+
 │   ├── face_detector.py   # Face detection logic
+
 │   ├── emotion_classifier.py # Emotion analysis logic
+
 │   ├── image_processor.py  # Image processing logic
+
 │   └── face_analyzer.py   # Face analysis logic
+
 ├── config/                # Configuration files
+
 │   ├── settings.py        # Application settings
+
 │   └── env.py             # Environment variables
+
 ├── requirements.txt       # Project dependencies
+
 ├── .env                   # Environment variables file
+
 ├── README.md              # Project documentation
+
 
 
 
@@ -86,7 +98,9 @@ python app.py
 4. Click the "Process Image" button to analyze the current frame
 5. View results in real-time:
    - Processed image with face detection boxes
+     
    - Emotion analysis results
+     
    - Image quality metrics
 
 ## Troubleshooting
@@ -121,8 +135,6 @@ To contribute to this project:
 3. Make your changes
 4. Submit a pull request
 
-## License
-[Your chosen license]
 
 ## Acknowledgments
 - OpenCV for computer vision capabilities
