@@ -103,7 +103,7 @@ python app.py
 
 # How it should Look
 
-<img width="1440" alt="Screenshot 2025-01-21 at 4 11 56 PM" src="https://github.com/user-attachments/assets/894fe465-4eeb-4c03-a1ba-20cd53a69ba2" />
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/06dd3913-613d-40e1-b0e3-f0a65ab8fe11" />
 
 
 
