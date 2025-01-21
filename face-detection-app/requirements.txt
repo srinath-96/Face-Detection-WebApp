@@ -1,0 +1,7 @@
+gradio==4.44.1
+opencv-python==4.9.0.80
+numpy==1.26.3
+transformers==4.37.2
+torch==2.2.0
+python-dotenv==1.0.0
+Pillow==10.2.0
