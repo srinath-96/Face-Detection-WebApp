@@ -4,7 +4,7 @@
 This project is a real-time face detection and emotion analysis application that uses computer vision and machine learning to detect faces and analyze emotions in real-time through your webcam. The application combines OpenCV for face detection and Hugging Face's transformers for emotion analysis.
 
 ### Features
-- Real-time face detection using OpenCV
+- Real-time face detection using OpenCV and Yolo v8
 - Emotion analysis using pre-trained deep learning models
 - Image quality assessment (brightness, contrast)
 - User-friendly interface built with Gradio
