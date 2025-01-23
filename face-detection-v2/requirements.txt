@@ -1,0 +1,22 @@
+# Core dependencies
+gradio==4.44.1
+numpy==1.26.3
+opencv-python==4.9.0.80
+Pillow==10.2.0
+python-dotenv==1.0.0
+
+# Deep Learning frameworks
+torch==2.2.0
+torchvision==0.17.0
+transformers>=4.39.0
+tokenizers>=0.19.1
+
+# YOLOv8 dependencies
+ultralytics==8.0.196
+huggingface-hub>=0.23.0
+
+# Runtime optimizations
+onnxruntime==1.17.0
+
+# Optional: For better error messages
+rich==13.7.0
