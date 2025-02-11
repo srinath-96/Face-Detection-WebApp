@@ -1,0 +1,15 @@
+# Core dependencies
+gradio==4.44.1
+numpy==1.26.3
+opencv-python==4.9.0.80
+Pillow==10.2.0
+python-dotenv==1.0.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+facenet-pytorch
+ultralytics>=8.0.43
+
+# Machine Learning
+scikit-learn==1.4.0
